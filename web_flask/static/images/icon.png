@@ -1,1 +1,6 @@
-<img src="/bdbaraban/AirBnB_clone_v2/blob/master/web_flask/static/images/icon.png?raw=true" alt="icon.png">
+<div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+
+        <div class="text-center p-3" data-hpc="">
+            <span class="border-wrap"><img src="/bdbaraban/AirBnB_clone_v2/blob/master/web_flask/static/images/icon.png?raw=true" alt="icon.png"></span>
+        </div>
+    </div>
